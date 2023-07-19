@@ -5,6 +5,8 @@ The code in this repository allows you to visualize data in an animated bar char
 sjvisualizer is a data visualization and animation library for Python.
 Library: https://github.com/SjoerdTilmans/sjvisualizer
 
+Author of the library https://github.com/SjoerdTilmans
+
 ## Technical details
 
 * The library only works with .png images.
@@ -75,5 +77,3 @@ Files contained:
 ## License
 
 sjvisualizer is released under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Author of the library https://github.com/SjoerdTilmans
