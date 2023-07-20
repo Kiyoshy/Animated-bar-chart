@@ -69,7 +69,7 @@ Files contained:
 * In the `colors.json` file, you can find the rgb values of the colors used to represent each country.
 
 
-## Enjoy
+## Graph
 
 ![](Avocado.gif)
 
