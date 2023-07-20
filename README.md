@@ -1,4 +1,4 @@
-# Animated bar char data visualization
+# Animated bar chart data visualization
 
 The code in this repository allows you to visualize data in an animated bar chart, using the sjvisualizer python library.
 
